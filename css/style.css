@@ -648,7 +648,7 @@ form label {
   height: 90px;
   font-size: 40px;
   line-height: 40px;
-  color: #F85A16;
+  color: #a8548f;
 }
 .feature-center p, .feature-center h3 {
   margin-bottom: 30px;
@@ -683,7 +683,7 @@ form label {
   display: table-cell;
   vertical-align: middle;
   font-size: 30px;
-  color: #F85A16;
+  color: #a8548f;
 }
 .feature-left .feature-copy {
   float: left;
@@ -1227,7 +1227,7 @@ form label {
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #F85A16;
+  color: #a8548f;
   border: 2px solid #F85A16;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
